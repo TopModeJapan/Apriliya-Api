@@ -169,12 +169,7 @@ router.get('/pxy_text_on_cup', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
+                                       urlnya
                                         })
                                 })
                         })
@@ -213,13 +208,8 @@ router.get('/pxy_3d_summer', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                      })
                                 })
                         })
                     }
@@ -257,13 +247,8 @@ router.get('/pxy_3d_nature', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                             })
                                 })
                         })
                     }
@@ -301,13 +286,8 @@ router.get('/pxy_wolf_metal', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                               })
                                 })
                         })
                     }
@@ -345,13 +325,8 @@ router.get('/pxy_wood_heart', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                          urlnya
+                                             })
                                 })
                         })
                     }
@@ -389,13 +364,8 @@ router.get('/pxy_flower_heart', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                            })
                                 })
                         })
                     }
@@ -433,13 +403,8 @@ router.get('/pxy_wooden_board', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                            })
                                 })
                         })
                     }
@@ -479,13 +444,8 @@ router.get('/pxy_tiktok_effect', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                              })
                                 })
                         })
                     }
@@ -523,13 +483,8 @@ router.get('/pxy_text_love', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                              })
                                 })
                         })
                     }
@@ -567,13 +522,8 @@ router.get('/pxy_double_heart', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                         urlnya
+                                            })
                                 })
                         })
                     }
@@ -611,13 +561,8 @@ router.get('/pxy_coffee_cup', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                            })
                                 })
                         })
                     }
@@ -655,13 +600,8 @@ router.get('/pxy_under_grass', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                             })
                                 })
                         })
                     }
@@ -699,13 +639,8 @@ router.get('/pxy_text_on_cup2', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                              })
                                 })
                         })
                     }
@@ -743,13 +678,8 @@ router.get('/pxy_romantic_text', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                             })
                                 })
                         })
                     }
@@ -787,13 +717,8 @@ router.get('/pxy_text_burn_paper', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                              })
                                 })
                         })
                     }
@@ -831,13 +756,8 @@ router.get('/pxy_shadow_text', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                            })
                                 })
                         })
                     }
@@ -1545,13 +1465,8 @@ router.get('/pxy_naruto', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                     urlnya
+                                                 })
                                 })
                         })
                     }
@@ -1589,13 +1504,8 @@ router.get('/pxy_grafity_text', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                             })
                                 })
                         })
                     }
@@ -1633,13 +1543,8 @@ router.get('/pxy_petterns', async (req, res, next) => {
                                     var urlnya = data.data.url,
                                         delete_url = data.data.delete_url;
                                         res.json({
-                                            result:{
-                                                url:urlnya,
-                                            },
-                                        	message: `Ok`,
-											status: `Success`,
-											maintanied_by: `${creator}`
-                                        })
+                                            urlnya
+                                                })
                                 })
                         })
                     }
